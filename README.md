@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://postavki.net/" target="_blank">Daniil</a>
+<h1 align="center">Hi there, I'm Sergey</h1>
   
 ### Hi there 👋
 
