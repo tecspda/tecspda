@@ -1,4 +1,13 @@
+<h1 align="center">Hi there, I'm <a href="https://postavki.net/" target="_blank">Daniil</a>
+  
 ### Hi there 👋
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
 
 <!--
 **tecspda/tecspda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
