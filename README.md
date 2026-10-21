@@ -10,6 +10,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <br>
 
+### Projects :
+
+- **[listmonk-mcp-ts](https://github.com/tecspda/listmonk-mcp-ts)** — MCP server for [Listmonk](https://listmonk.app): lets AI agents (Claude Code, Cursor, VS Code and others) manage subscribers, lists, campaigns and templates and send transactional email.
+  [![npm](https://img.shields.io/npm/v/listmonk-mcp-ts)](https://www.npmjs.com/package/listmonk-mcp-ts)
+  [![MCP Registry](https://img.shields.io/badge/MCP_Registry-io.github.tecspda%2Flistmonk--mcp--ts-blue)](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.tecspda/listmonk-mcp-ts)
+
+<br>
+
 ### Languages and Tools :
 
 <p dir="auto">
