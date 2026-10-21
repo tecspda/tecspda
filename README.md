@@ -20,15 +20,15 @@ I am a Full Stack & Mobile Developer <img src="https://media.giphy.com/media/WUl
 
 ### Technical Articles :
 
-My tutorials on [Timeweb Cloud](https://timeweb.cloud/tutorials/authors/sergej-durmanov) (in Russian):
+My tutorials on [Timeweb Cloud](https://timeweb.cloud/tutorials/authors/sergej-durmanov) (articles are in Russian):
 
-- [Как развернуть Supabase в облаке Timeweb Cloud](https://timeweb.cloud/tutorials/cloud/kak-razvernut-supabase-v-oblake-timeweb-cloud)
-- [Примеры использования Supabase в облаке Timeweb Cloud](https://timeweb.cloud/tutorials/cloud/primery-ispolzovaniya-supabase-v-oblake-timeweb-cloud)
-- [Supabase: примеры использования в web-разработке с Vue](https://timeweb.cloud/tutorials/cloud/supabase-primery-ispolzovaniya-v-web-razrabotke-s-vue)
-- [Как создать и развернуть приложение на Next.js](https://timeweb.cloud/tutorials/cloud/kak-razvernut-prilozhenie-na-next-js)
-- [Как создать и развернуть приложение на Laravel](https://timeweb.cloud/tutorials/cloud/kak-razvernut-prilozhenie-na-laravel)
-- [Как создать и развернуть приложение на Svelte](https://timeweb.cloud/tutorials/javascript/kak-razvernut-prilozhenie-na-svelte)
-- [Как создать и развернуть приложение на FastAPI](https://timeweb.cloud/tutorials/python/kak-razvernut-prilozhenie-na-fastapi)
+- [How to Deploy Supabase on Timeweb Cloud](https://timeweb.cloud/tutorials/cloud/kak-razvernut-supabase-v-oblake-timeweb-cloud)
+- [Supabase Use Cases on Timeweb Cloud](https://timeweb.cloud/tutorials/cloud/primery-ispolzovaniya-supabase-v-oblake-timeweb-cloud)
+- [Supabase in Web Development with Vue: Examples](https://timeweb.cloud/tutorials/cloud/supabase-primery-ispolzovaniya-v-web-razrabotke-s-vue)
+- [How to Build and Deploy a Next.js App](https://timeweb.cloud/tutorials/cloud/kak-razvernut-prilozhenie-na-next-js)
+- [How to Build and Deploy a Laravel App](https://timeweb.cloud/tutorials/cloud/kak-razvernut-prilozhenie-na-laravel)
+- [How to Build and Deploy a Svelte App](https://timeweb.cloud/tutorials/javascript/kak-razvernut-prilozhenie-na-svelte)
+- [How to Build and Deploy a FastAPI App](https://timeweb.cloud/tutorials/python/kak-razvernut-prilozhenie-na-fastapi)
 
 <br>
 
