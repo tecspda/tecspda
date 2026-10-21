@@ -12,6 +12,10 @@ I am a Full Stack & Mobile Developer <img src="https://media.giphy.com/media/WUl
 
 ### Projects :
 
+- **[Svetlana Dragan](https://app.draganmobile.online/)** — official mobile app of political analyst Svetlana Dragan: forecasts calendar, voice forecasts, articles and push notifications about new content. I'm the developer: React Native (Expo) app with Go + MongoDB backend.
+  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/ru/app/svetlana-dragan/id6504160738)
+  [![Google Play](https://img.shields.io/badge/Google_Play-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.dragan.center)
+
 - **[listmonk-mcp-ts](https://github.com/tecspda/listmonk-mcp-ts)** — MCP server for [Listmonk](https://listmonk.app): lets AI agents (Claude Code, Cursor, VS Code and others) manage subscribers, lists, campaigns and templates and send transactional email.
   [![npm](https://img.shields.io/npm/v/listmonk-mcp-ts)](https://www.npmjs.com/package/listmonk-mcp-ts)
   [![MCP Registry](https://img.shields.io/badge/MCP_Registry-io.github.tecspda%2Flistmonk--mcp--ts-blue)](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.tecspda/listmonk-mcp-ts)
